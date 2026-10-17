@@ -6,6 +6,9 @@ Request-Level Accounting for ARC-AGI-3" (Paper Prize track, ARC Prize 2026).
 Linked competition submission: **57174905** (public score 30.21), a re-submission of the
 guard build described in the paper.
 
+- GitHub: https://github.com/guoyi12311125-netizen/arc3-repeat-controlled-eval
+- Kaggle dataset mirror: https://www.kaggle.com/datasets/zgyyyl/arc3-paper-release
+
 All six competition submissions of this project, in order (see paper Table 3a):
 
 | date (UTC) | submission | build | public score |
