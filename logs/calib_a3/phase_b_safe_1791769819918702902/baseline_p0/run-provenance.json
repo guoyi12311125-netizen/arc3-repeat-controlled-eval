@@ -1,0 +1,51 @@
+{
+  "data_origin": "recorded_run",
+  "operation_mode": "offline",
+  "profile": "baseline",
+  "profile_overrides": {
+    "ARC3_MAX_ACTIVE_STREAMS": "10"
+  },
+  "benchmark_sha256": "d568b92fe89776fb0a9fe45458a76b6661274efe1a67d874573d820ac08fac27",
+  "dataset_sha256": "fd26b1d2f7a8520b96807316755c6418e7e1708eaf2d3383eddb0726f7f53130",
+  "model_sha256": "4c02b1f82b275497a30684ac601c8ce025839cd1244d49a46cbc4553600dd265",
+  "source_code_sha256": "f063a6a3c2392e33ed4f58b9a0edde37c263d75bd83ddb08510ffdab4dbfbe40",
+  "upstream_notebook_sha256": "88a379f17c3a4ba8c98715fc23155346ccd6eb289bdafebadfc61a3178f9d9bd",
+  "published_reference_commit": "10882e332d883af3e61616df8c8a17d03a328a75",
+  "serving": {
+    "declared_runtime_dataset": "dfranzen/pennyroyal-v253",
+    "declared_runtime_version": "2.5.3",
+    "declared_runtime_base_commit": "d00d88efc8d6281b12be4f4073126aec95038c55",
+    "runtime_attachment_hash": null,
+    "runtime_attachment_verification": "NOT VERIFIED; retained input version IDs are archived with the notebook"
+  },
+  "model_fingerprint_scope": "Main/draft JSON manifests and declared versioned Kaggle references; full weights not hashed",
+  "fingerprint_components": {
+    "main_manifest": "369b6ae8c4e15a64c86616fea8fb3c1b9da9851ccb33fa2c400910f9a92e35c1",
+    "draft_manifest": "f13186369ad38a958c1a9620cfeda4e009deea792b160f37730002b868f88943",
+    "declared_model_refs": [
+      "dfranzen/intel-qwen3.8-flash-next-w4a16-autoround/Transformers/default/1",
+      "dfranzen/albucino-qwen3-8-flash-next-drafter/Transformers/default/1"
+    ]
+  },
+  "packages": {
+    "arc-agi": "0.9.8",
+    "arcengine": "0.9.3",
+    "numpy": "2.4.6"
+  },
+  "notebook_total_runtime_seconds": 10586.199705123901,
+  "review_required": true,
+  "retained": false,
+  "status": "RECORDED_PUBLIC_RUN_REQUIRES_REVIEW",
+  "seed": null,
+  "environment_seed_status": "UNKNOWN",
+  "environment_seed_evidence": "GameAPI omits seed in Arcade.make(); installed SDK default not verified",
+  "shared_serving_capacity": {
+    "MAXREQ": 10,
+    "CUDAGRAPH_MAXBS": 10
+  },
+  "completion_only": true,
+  "promoted": false,
+  "comparison_scope": "Different game subset/time/context/output limits",
+  "global_pass": 0,
+  "minimal_diagnostics": true
+}

@@ -1,0 +1,74 @@
+{
+  "status": "STOPPED_CLEANUP_FAILED",
+  "complete": false,
+  "workers_completed": [
+    {
+      "output": "baseline_p0",
+      "elapsed_seconds": 2056.433590359
+    }
+  ],
+  "workers": [
+    {
+      "worker": {
+        "profile": "baseline",
+        "global_pass": 0,
+        "local_pass": 0,
+        "overrides": {
+          "ARC3_MAX_ACTIVE_STREAMS": "10"
+        },
+        "admission": 10,
+        "n_passes": 1,
+        "game_count": 10,
+        "solver_concurrency": 10,
+        "context_tokens": 131072,
+        "max_output_tokens": 12288,
+        "analyzer_timeout_seconds": 120,
+        "max_runtime_s_per_game": 2000,
+        "waves": 1,
+        "worker_hard_limit_seconds": 2260,
+        "output_name": "baseline_p0"
+      },
+      "status": "RECORDED_REQUIRES_REVIEW",
+      "complete": true,
+      "row_count": 10,
+      "native_finished_games": 10,
+      "scores_imputed": false,
+      "promoted": false
+    },
+    {
+      "worker": {
+        "profile": "noop_guard",
+        "global_pass": 0,
+        "local_pass": 0,
+        "overrides": {
+          "ARC3_NOOP_REPEAT_GUARD": "1",
+          "ARC3_DEATH_LEDGER": "1",
+          "ARC3_DEATH_REPEAT_GUARD": "1",
+          "ARC3_MAX_ACTIVE_STREAMS": "10"
+        },
+        "admission": 10,
+        "n_passes": 1,
+        "game_count": 10,
+        "solver_concurrency": 10,
+        "context_tokens": 131072,
+        "max_output_tokens": 12288,
+        "analyzer_timeout_seconds": 120,
+        "max_runtime_s_per_game": 2000,
+        "waves": 1,
+        "worker_hard_limit_seconds": 2260,
+        "output_name": "noop_guard_p0"
+      },
+      "status": "STOPPED_CLEANUP_FAILED",
+      "complete": false,
+      "row_count": 10,
+      "native_finished_games": 10,
+      "scores_imputed": false,
+      "promoted": false
+    }
+  ],
+  "trial_count": 60,
+  "scores_imputed": false,
+  "promoted": false,
+  "whole_batch_elapsed_seconds": 5858.742446916,
+  "final_artifact_seconds": 5.2354899540005135
+}

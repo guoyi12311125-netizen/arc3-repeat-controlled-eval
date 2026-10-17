@@ -1,0 +1,6 @@
+# Analysis-side dependencies for the tools in tools/.
+# The experiment side does not run from this file: it runs on the Kaggle image
+# with the wheels shipped in the competition inputs (see MODEL_PROVENANCE.md).
+matplotlib==3.11.2
+numpy==2.5.4
+pypdf==6.21.0

@@ -1,0 +1,171 @@
+{
+  "settings": {
+    "arms": [
+      "baseline",
+      "noop_guard",
+      "inventory",
+      "memory_slim",
+      "drain60",
+      "baseline_rep"
+    ],
+    "passes": 1,
+    "game_count": 10,
+    "solver_concurrency": 10,
+    "admission": 10,
+    "maxreq": 10,
+    "cudagraph_maxbs": 10,
+    "context_tokens": 131072,
+    "max_output_tokens": 12288,
+    "game_seconds": 2000,
+    "analyzer_timeout_seconds": 120,
+    "setup_limit_seconds": 3600,
+    "global_limit_seconds": 17500,
+    "final_artifact_seconds": 180,
+    "worker_overhead_seconds": 260,
+    "restart_between_passes": false,
+    "restart_limit_seconds": 900,
+    "poll_interval_seconds": 5,
+    "graceful_stop_seconds": 130,
+    "require_gpu": true,
+    "host_min_available_bytes": 8589934592,
+    "host_max_used_percent": 90,
+    "cgroup_max_used_percent": 90,
+    "gpu_min_free_bytes": 1073741824,
+    "gpu_max_used_percent": 98
+  },
+  "workers": [
+    {
+      "profile": "baseline",
+      "global_pass": 0,
+      "local_pass": 0,
+      "overrides": {
+        "ARC3_MAX_ACTIVE_STREAMS": "10"
+      },
+      "admission": 10,
+      "n_passes": 1,
+      "game_count": 10,
+      "solver_concurrency": 10,
+      "context_tokens": 131072,
+      "max_output_tokens": 12288,
+      "analyzer_timeout_seconds": 120,
+      "max_runtime_s_per_game": 2000,
+      "waves": 1,
+      "worker_hard_limit_seconds": 2260,
+      "output_name": "baseline_p0"
+    },
+    {
+      "profile": "noop_guard",
+      "global_pass": 0,
+      "local_pass": 0,
+      "overrides": {
+        "ARC3_NOOP_REPEAT_GUARD": "1",
+        "ARC3_DEATH_LEDGER": "1",
+        "ARC3_DEATH_REPEAT_GUARD": "1",
+        "ARC3_MAX_ACTIVE_STREAMS": "10"
+      },
+      "admission": 10,
+      "n_passes": 1,
+      "game_count": 10,
+      "solver_concurrency": 10,
+      "context_tokens": 131072,
+      "max_output_tokens": 12288,
+      "analyzer_timeout_seconds": 120,
+      "max_runtime_s_per_game": 2000,
+      "waves": 1,
+      "worker_hard_limit_seconds": 2260,
+      "output_name": "noop_guard_p0"
+    },
+    {
+      "profile": "inventory",
+      "global_pass": 0,
+      "local_pass": 0,
+      "overrides": {
+        "ARC3_LEVEL_INVENTORY": "1",
+        "ARC3_MAX_ACTIVE_STREAMS": "10"
+      },
+      "admission": 10,
+      "n_passes": 1,
+      "game_count": 10,
+      "solver_concurrency": 10,
+      "context_tokens": 131072,
+      "max_output_tokens": 12288,
+      "analyzer_timeout_seconds": 120,
+      "max_runtime_s_per_game": 2000,
+      "waves": 1,
+      "worker_hard_limit_seconds": 2260,
+      "output_name": "inventory_p0"
+    },
+    {
+      "profile": "memory_slim",
+      "global_pass": 0,
+      "local_pass": 0,
+      "overrides": {
+        "ARC3_MEMORY_SECTIONS": "slim",
+        "ARC3_MAX_ACTIVE_STREAMS": "10"
+      },
+      "admission": 10,
+      "n_passes": 1,
+      "game_count": 10,
+      "solver_concurrency": 10,
+      "context_tokens": 131072,
+      "max_output_tokens": 12288,
+      "analyzer_timeout_seconds": 120,
+      "max_runtime_s_per_game": 2000,
+      "waves": 1,
+      "worker_hard_limit_seconds": 2260,
+      "output_name": "memory_slim_p0"
+    },
+    {
+      "profile": "drain60",
+      "global_pass": 0,
+      "local_pass": 0,
+      "overrides": {
+        "ARC3_HISTORY_TURN_DRAIN": "60",
+        "ARC3_MAX_ACTIVE_STREAMS": "10"
+      },
+      "admission": 10,
+      "n_passes": 1,
+      "game_count": 10,
+      "solver_concurrency": 10,
+      "context_tokens": 131072,
+      "max_output_tokens": 12288,
+      "analyzer_timeout_seconds": 120,
+      "max_runtime_s_per_game": 2000,
+      "waves": 1,
+      "worker_hard_limit_seconds": 2260,
+      "output_name": "drain60_p0"
+    },
+    {
+      "profile": "baseline_rep",
+      "global_pass": 0,
+      "local_pass": 0,
+      "overrides": {
+        "ARC3_MAX_ACTIVE_STREAMS": "10"
+      },
+      "admission": 10,
+      "n_passes": 1,
+      "game_count": 10,
+      "solver_concurrency": 10,
+      "context_tokens": 131072,
+      "max_output_tokens": 12288,
+      "analyzer_timeout_seconds": 120,
+      "max_runtime_s_per_game": 2000,
+      "waves": 1,
+      "worker_hard_limit_seconds": 2260,
+      "output_name": "baseline_rep_p0"
+    }
+  ],
+  "worker_count": 6,
+  "trial_count": 60,
+  "worker_allocation_seconds": 13560,
+  "restart_allocation_seconds": 0,
+  "total_allocation_seconds": 17340,
+  "global_limit_seconds": 17500,
+  "platform_limit_seconds": 32400,
+  "shared_serving": {
+    "MAXREQ": 10,
+    "CUDAGRAPH_MAXBS": 10
+  },
+  "purpose": "Operational completion; scores unmeasured and not comparable with historical budgets",
+  "game_selection": "Sorted bundled public IDs, first game_count; exact IDs written before play"
+}

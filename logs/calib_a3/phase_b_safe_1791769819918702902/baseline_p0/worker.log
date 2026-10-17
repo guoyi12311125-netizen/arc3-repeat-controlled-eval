@@ -1,0 +1,853 @@
+priority gate active: 10 concurrent streams
+analyzer request timed out at action 12; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 45; yielding with 2 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+benchmark: duck-harness-kaggle
+solver:    duck-harness
+games:     25
+passes:    1
+runs:      25 (won: 0)
+started:   2026-10-12 02:21:28
+ended:     in progress
+mean score:    3.88
+median score:  0.00
+total actions: 410
+total tokens:  351428
+generated tokens/sec: 584.83 (job wallclock)
+total wallclock: 5390.6s
+
+per-game (mean across passes):
+  ar25-0c556536: score=16.67, levels=3.0/8, actions=94, tokens=38837
+  bp35-0a0ad940: score=0.00, levels=0.0/9, actions=10, tokens=37826
+  cd82-fb555c5d: score=10.51, levels=2.0/6, actions=61, tokens=37168
+  cn04-2fe56bfb: score=4.76, levels=1.0/6, actions=38, tokens=38105
+  dc22-fdcac232: score=0.00, levels=0.0/6, actions=36, tokens=35281
+  ft09-0d8bbf25: score=47.62, levels=4.0/6, actions=44, tokens=33517
+  g50t-5849a774: score=0.00, levels=0.0/7, actions=16, tokens=37693
+  ka59-38d34dbb: score=3.57, levels=1.0/7, actions=25, tokens=30748
+  lf52-271a04aa: score=5.45, levels=2.0/10, actions=57, tokens=30379
+  lp85-305b61c3: score=8.33, levels=2.0/8, actions=29, tokens=31874
+  ls20-9607627b: score=0.00, levels=0.0/7, actions=0, tokens=0
+  m0r0-492f87ba: score=0.00, levels=0.0/6, actions=0, tokens=0
+  r11l-495a7899: score=0.00, levels=0.0/6, actions=0, tokens=0
+  re86-8af5384d: score=0.00, levels=0.0/8, actions=0, tokens=0
+  s5i5-18d95033: score=0.00, levels=0.0/8, actions=0, tokens=0
+  sb26-7fbdac44: score=0.00, levels=0.0/8, actions=0, tokens=0
+  sc25-635fd71a: score=0.00, levels=0.0/6, actions=0, tokens=0
+  sk48-d8078629: score=0.00, levels=0.0/8, actions=0, tokens=0
+  sp80-589a99af: score=0.00, levels=0.0/6, actions=0, tokens=0
+  su15-1944f8ab: score=0.00, levels=0.0/9, actions=0, tokens=0
+  tn36-ef4dde99: score=0.00, levels=0.0/7, actions=0, tokens=0
+  tr87-cd924810: score=0.00, levels=0.0/6, actions=0, tokens=0
+  tu93-0768757b: score=0.00, levels=0.0/9, actions=0, tokens=0
+  vc33-5430563c: score=0.00, levels=0.0/7, actions=0, tokens=0
+  wa30-ee6fef47: score=0.00, levels=0.0/9, actions=0, tokens=0
+
+analyzer request timed out at action 26; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 39; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 11; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 62; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 26; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 39; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 11; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 49; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 26; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 61; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 11; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 111; yielding with 1 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 49; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 26; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 35; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 61; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 39; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 11; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 111; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 49; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 26; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 35; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 39; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 64; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 49; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+benchmark: duck-harness-kaggle
+solver:    duck-harness
+games:     25
+passes:    1
+runs:      25 (won: 0)
+started:   2026-10-12 02:21:28
+ended:     in progress
+mean score:    4.98
+median score:  0.00
+total actions: 515
+total tokens:  424185
+generated tokens/sec: 353.22 (job wallclock)
+total wallclock: 8749.4s
+
+per-game (mean across passes):
+  ar25-0c556536: score=27.78, levels=4.0/8, actions=110, tokens=39328
+  bp35-0a0ad940: score=0.00, levels=0.0/9, actions=11, tokens=42265
+  cd82-fb555c5d: score=10.51, levels=2.0/6, actions=76, tokens=48467
+  cn04-2fe56bfb: score=4.76, levels=1.0/6, actions=38, tokens=38105
+  dc22-fdcac232: score=4.60, levels=1.0/6, actions=62, tokens=49808
+  ft09-0d8bbf25: score=47.62, levels=4.0/6, actions=48, tokens=37966
+  g50t-5849a774: score=3.57, levels=1.0/7, actions=34, tokens=43531
+  ka59-38d34dbb: score=3.57, levels=1.0/7, actions=25, tokens=30748
+  lf52-271a04aa: score=5.45, levels=2.0/10, actions=63, tokens=44876
+  lp85-305b61c3: score=16.67, levels=3.0/8, actions=48, tokens=49091
+  ls20-9607627b: score=0.00, levels=0.0/7, actions=0, tokens=0
+  m0r0-492f87ba: score=0.00, levels=0.0/6, actions=0, tokens=0
+  r11l-495a7899: score=0.00, levels=0.0/6, actions=0, tokens=0
+  re86-8af5384d: score=0.00, levels=0.0/8, actions=0, tokens=0
+  s5i5-18d95033: score=0.00, levels=0.0/8, actions=0, tokens=0
+  sb26-7fbdac44: score=0.00, levels=0.0/8, actions=0, tokens=0
+  sc25-635fd71a: score=0.00, levels=0.0/6, actions=0, tokens=0
+  sk48-d8078629: score=0.00, levels=0.0/8, actions=0, tokens=0
+  sp80-589a99af: score=0.00, levels=0.0/6, actions=0, tokens=0
+  su15-1944f8ab: score=0.00, levels=0.0/9, actions=0, tokens=0
+  tn36-ef4dde99: score=0.00, levels=0.0/7, actions=0, tokens=0
+  tr87-cd924810: score=0.00, levels=0.0/6, actions=0, tokens=0
+  tu93-0768757b: score=0.00, levels=0.0/9, actions=0, tokens=0
+  vc33-5430563c: score=0.00, levels=0.0/7, actions=0, tokens=0
+  wa30-ee6fef47: score=0.00, levels=0.0/9, actions=0, tokens=0
+
+analyzer request timed out at action 26; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 77; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 63; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 49; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 49; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 35; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 26; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 63; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 64; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 111; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 17; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 49; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 26; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 63; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 64; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 92; yielding with 1 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 17; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 39; yielding with 2 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 49; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 26; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 17; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 39; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 35; yielding with 1 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 49; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 64; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 118; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 26; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 70; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 49; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+benchmark: duck-harness-kaggle
+solver:    duck-harness
+games:     25
+passes:    1
+runs:      25 (won: 0)
+started:   2026-10-12 02:21:28
+ended:     in progress
+mean score:    6.08
+median score:  0.00
+total actions: 570
+total tokens:  468776
+generated tokens/sec: 260.30 (job wallclock)
+total wallclock: 11996.7s
+
+per-game (mean across passes):
+  ar25-0c556536: score=27.78, levels=4.0/8, actions=117, tokens=53512
+  bp35-0a0ad940: score=0.00, levels=0.0/9, actions=16, tokens=44641
+  cd82-fb555c5d: score=26.94, levels=3.0/6, actions=94, tokens=56499
+  cn04-2fe56bfb: score=4.76, levels=1.0/6, actions=38, tokens=38105
+  dc22-fdcac232: score=4.60, levels=1.0/6, actions=63, tokens=52711
+  ft09-0d8bbf25: score=47.62, levels=4.0/6, actions=48, tokens=37966
+  g50t-5849a774: score=3.57, levels=1.0/7, actions=34, tokens=43531
+  ka59-38d34dbb: score=3.57, levels=1.0/7, actions=25, tokens=30748
+  lf52-271a04aa: score=5.45, levels=2.0/10, actions=66, tokens=51858
+  lp85-305b61c3: score=27.78, levels=4.0/8, actions=69, tokens=59205
+  ls20-9607627b: score=0.00, levels=0.0/7, actions=0, tokens=0
+  m0r0-492f87ba: score=0.00, levels=0.0/6, actions=0, tokens=0
+  r11l-495a7899: score=0.00, levels=0.0/6, actions=0, tokens=0
+  re86-8af5384d: score=0.00, levels=0.0/8, actions=0, tokens=0
+  s5i5-18d95033: score=0.00, levels=0.0/8, actions=0, tokens=0
+  sb26-7fbdac44: score=0.00, levels=0.0/8, actions=0, tokens=0
+  sc25-635fd71a: score=0.00, levels=0.0/6, actions=0, tokens=0
+  sk48-d8078629: score=0.00, levels=0.0/8, actions=0, tokens=0
+  sp80-589a99af: score=0.00, levels=0.0/6, actions=0, tokens=0
+  su15-1944f8ab: score=0.00, levels=0.0/9, actions=0, tokens=0
+  tn36-ef4dde99: score=0.00, levels=0.0/7, actions=0, tokens=0
+  tr87-cd924810: score=0.00, levels=0.0/6, actions=0, tokens=0
+  tu93-0768757b: score=0.00, levels=0.0/9, actions=0, tokens=0
+  vc33-5430563c: score=0.00, levels=0.0/7, actions=0, tokens=0
+  wa30-ee6fef47: score=0.00, levels=0.0/9, actions=0, tokens=0
+
+analyzer request timed out at action 64; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 39; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 67; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 26; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 70; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 49; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 64; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 39; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 125; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 49; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 64; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 68; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 39; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 82; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 49; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 57; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 68; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 111; yielding with 1 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 66; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 39; yielding with 1 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 49; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 36; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 111; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 36; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 67; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+benchmark: duck-harness-kaggle
+solver:    duck-harness
+games:     25
+passes:    1
+runs:      25 (won: 0)
+started:   2026-10-12 02:21:28
+ended:     in progress
+mean score:    7.50
+median score:  0.00
+total actions: 662
+total tokens:  554870
+generated tokens/sec: 231.10 (job wallclock)
+total wallclock: 18433.5s
+
+per-game (mean across passes):
+  ar25-0c556536: score=27.78, levels=4.0/8, actions=124, tokens=57173
+  bp35-0a0ad940: score=0.80, levels=1.0/9, actions=35, tokens=57712
+  cd82-fb555c5d: score=47.62, levels=4.0/6, actions=110, tokens=64830
+  cn04-2fe56bfb: score=4.76, levels=1.0/6, actions=38, tokens=38105
+  dc22-fdcac232: score=4.60, levels=1.0/6, actions=66, tokens=56385
+  ft09-0d8bbf25: score=47.62, levels=4.0/6, actions=48, tokens=37966
+  g50t-5849a774: score=3.57, levels=1.0/7, actions=56, tokens=68310
+  ka59-38d34dbb: score=3.57, levels=1.0/7, actions=35, tokens=43303
+  lf52-271a04aa: score=5.45, levels=2.0/10, actions=68, tokens=61674
+  lp85-305b61c3: score=41.67, levels=5.0/8, actions=82, tokens=69412
+  ls20-9607627b: score=0.00, levels=0.0/7, actions=0, tokens=0
+  m0r0-492f87ba: score=0.00, levels=0.0/6, actions=0, tokens=0
+  r11l-495a7899: score=0.00, levels=0.0/6, actions=0, tokens=0
+  re86-8af5384d: score=0.00, levels=0.0/8, actions=0, tokens=0
+  s5i5-18d95033: score=0.00, levels=0.0/8, actions=0, tokens=0
+  sb26-7fbdac44: score=0.00, levels=0.0/8, actions=0, tokens=0
+  sc25-635fd71a: score=0.00, levels=0.0/6, actions=0, tokens=0
+  sk48-d8078629: score=0.00, levels=0.0/8, actions=0, tokens=0
+  sp80-589a99af: score=0.00, levels=0.0/6, actions=0, tokens=0
+  su15-1944f8ab: score=0.00, levels=0.0/9, actions=0, tokens=0
+  tn36-ef4dde99: score=0.00, levels=0.0/7, actions=0, tokens=0
+  tr87-cd924810: score=0.00, levels=0.0/6, actions=0, tokens=0
+  tu93-0768757b: score=0.00, levels=0.0/9, actions=0, tokens=0
+  vc33-5430563c: score=0.00, levels=0.0/7, actions=0, tokens=0
+  wa30-ee6fef47: score=0.00, levels=0.0/9, actions=0, tokens=0
+
+analyzer request timed out at action 36; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 111; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 39; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+tail fade phase after 41.9 minutes: 6.5 minutes remaining; fading tail B to zero over the final 9.7 minutes, retaining hazard C
+analyzer request timed out at action 67; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 36; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 88; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 111; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 36; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 63; yielding with 1 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 111; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 36; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 80; yielding with 1 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 96; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 44; yielding with 2 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 63; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 77; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 36; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 52; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=95.01007015599998)
+analyzer request timed out at action 36; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=11.302259466999658)
+[finished] ft09-0d8bbf25 state=gave_up level=4/6 score=47.62 actions=51 tokens=54654 per-level=4/43,7/12,14/23,19/28,7/65,0/37 note="tokens=54654"
+[finished] ka59-38d34dbb state=gave_up level=1/7 score=3.57 actions=35 tokens=43303 per-level=23/28,12/109,0/51,0/51,0/33,0/132,0/326 note="tokens=43303"
+analyzer request timed out at action 77; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=34.63495035399956)
+[finished] dc22-fdcac232 state=gave_up level=1/6 score=4.60 actions=76 tokens=61795 per-level=60/59,16/102,0/67,0/98,0/324,0/578 note="tokens=61795"
+analyzer request timed out at action 84; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=9.35512953200032)
+analyzer request timed out at action 146; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=0.3992543780000233)
+[finished] lf52-271a04aa state=gave_up level=2/10 score=5.45 actions=83 tokens=75626 per-level=11/32,46/81,26/60,0/71,0/205,0/148,0/244,0/109,0/164,0/225 note="tokens=75626"
+[finished] ar25-0c556536 state=gave_up level=5/8 score=41.67 actions=145 tokens=74251 per-level=24/32,20/50,44/75,22/37,35/89,0/159,0/233,0/73 note="tokens=76646"
+analyzer request timed out at action 44; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=60.75899922700046)
+analyzer request timed out at action 41; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=47.521024937999755)
+[finished] bp35-0a0ad940 state=gave_up level=1/9 score=0.80 actions=43 tokens=69855 per-level=35/21,8/48,0/44,0/38,0/33,0/87,0/86,0/131,0/163 note="tokens=71032"
+analyzer request timed out at action 63; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=52.20796416699977)
+[finished] cn04-2fe56bfb state=gave_up level=1/6 score=4.76 actions=40 tokens=61811 per-level=14/29,26/54,0/85,0/300,0/208,0/113 note="tokens=67389"
+[finished] g50t-5849a774 state=gave_up level=1/7 score=3.57 actions=62 tokens=82024 per-level=34/78,28/175,0/179,0/230,0/96,0/54,0/67 note="tokens=83245"
+analyzer request timed out at action 96; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=67.67740068700004)
+[finished] lp85-305b61c3 state=gave_up level=5/8 score=41.67 actions=95 tokens=76192 per-level=9/17,19/38,17/31,17/16,19/41,14/60,0/26,0/159 note="tokens=76192"
+[finished] cd82-fb555c5d state=gave_up level=4/6 score=47.62 actions=110 tokens=64830 per-level=45/55,11/8,35/41,19/21,0/23,0/23 note="tokens=74412"
+benchmark: duck-harness-kaggle
+solver:    duck-harness
+games:     25
+passes:    1
+runs:      25 (won: 0)
+started:   2026-10-12 02:21:28
+ended:     in progress
+mean score:    8.16
+median score:  0.00
+total actions: 800
+total tokens:  705537
+generated tokens/sec: 235.10 (job wallclock)
+total wallclock: 58773.8s
+
+per-game (mean across passes):
+  ar25-0c556536: score=41.67, levels=5.0/8, actions=145, tokens=74251
+  bp35-0a0ad940: score=0.80, levels=1.0/9, actions=43, tokens=69855
+  cd82-fb555c5d: score=47.62, levels=4.0/6, actions=110, tokens=64830
+  cn04-2fe56bfb: score=4.76, levels=1.0/6, actions=40, tokens=61811
+  dc22-fdcac232: score=4.60, levels=1.0/6, actions=76, tokens=61795
+  ft09-0d8bbf25: score=47.62, levels=4.0/6, actions=51, tokens=54654
+  g50t-5849a774: score=3.57, levels=1.0/7, actions=62, tokens=82024
+  ka59-38d34dbb: score=3.57, levels=1.0/7, actions=35, tokens=43303
+  lf52-271a04aa: score=5.45, levels=2.0/10, actions=83, tokens=75626
+  lp85-305b61c3: score=41.67, levels=5.0/8, actions=95, tokens=76192
+  ls20-9607627b: score=0.00, levels=0.0/7, actions=2, tokens=3932
+  m0r0-492f87ba: score=0.00, levels=0.0/6, actions=1, tokens=818
+  r11l-495a7899: score=0.00, levels=0.0/6, actions=3, tokens=4859
+  re86-8af5384d: score=0.00, levels=0.0/8, actions=2, tokens=5031
+  s5i5-18d95033: score=0.00, levels=0.0/8, actions=7, tokens=2393
+  sb26-7fbdac44: score=2.78, levels=1.0/8, actions=24, tokens=5907
+  sc25-635fd71a: score=0.00, levels=0.0/6, actions=4, tokens=3565
+  sk48-d8078629: score=0.00, levels=0.0/8, actions=6, tokens=6173
+  sp80-589a99af: score=0.00, levels=0.0/6, actions=7, tokens=4324
+  su15-1944f8ab: score=0.00, levels=0.0/9, actions=4, tokens=4194
+  tn36-ef4dde99: score=0.00, levels=0.0/7, actions=0, tokens=0
+  tr87-cd924810: score=0.00, levels=0.0/6, actions=0, tokens=0
+  tu93-0768757b: score=0.00, levels=0.0/9, actions=0, tokens=0
+  vc33-5430563c: score=0.00, levels=0.0/7, actions=0, tokens=0
+  wa30-ee6fef47: score=0.00, levels=0.0/9, actions=0, tokens=0
+
+analyzer request timed out at action 25; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 32; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+benchmark: duck-harness-kaggle
+solver:    duck-harness
+games:     25
+passes:    1
+runs:      25 (won: 0)
+started:   2026-10-12 02:21:28
+ended:     in progress
+mean score:    12.64
+median score:  3.57
+total actions: 1256
+total tokens:  1023953
+generated tokens/sec: 284.35 (job wallclock)
+total wallclock: 63677.6s
+
+per-game (mean across passes):
+  ar25-0c556536: score=41.67, levels=5.0/8, actions=145, tokens=74251
+  bp35-0a0ad940: score=0.80, levels=1.0/9, actions=43, tokens=69855
+  cd82-fb555c5d: score=47.62, levels=4.0/6, actions=110, tokens=64830
+  cn04-2fe56bfb: score=4.76, levels=1.0/6, actions=40, tokens=61811
+  dc22-fdcac232: score=4.60, levels=1.0/6, actions=76, tokens=61795
+  ft09-0d8bbf25: score=47.62, levels=4.0/6, actions=51, tokens=54654
+  g50t-5849a774: score=3.57, levels=1.0/7, actions=62, tokens=82024
+  ka59-38d34dbb: score=3.57, levels=1.0/7, actions=35, tokens=43303
+  lf52-271a04aa: score=5.45, levels=2.0/10, actions=83, tokens=75626
+  lp85-305b61c3: score=41.67, levels=5.0/8, actions=95, tokens=76192
+  ls20-9607627b: score=0.00, levels=0.0/7, actions=21, tokens=33431
+  m0r0-492f87ba: score=2.03, levels=1.0/6, actions=47, tokens=38997
+  r11l-495a7899: score=4.76, levels=1.0/6, actions=9, tokens=22673
+  re86-8af5384d: score=16.67, levels=3.0/8, actions=112, tokens=37008
+  s5i5-18d95033: score=2.78, levels=1.0/8, actions=31, tokens=29290
+  sb26-7fbdac44: score=58.33, levels=6.0/8, actions=101, tokens=39101
+  sc25-635fd71a: score=0.00, levels=0.0/6, actions=100, tokens=40168
+  sk48-d8078629: score=0.00, levels=0.0/8, actions=18, tokens=38865
+  sp80-589a99af: score=28.57, levels=3.0/6, actions=36, tokens=40555
+  su15-1944f8ab: score=1.59, levels=1.0/9, actions=41, tokens=39524
+  tn36-ef4dde99: score=0.00, levels=0.0/7, actions=0, tokens=0
+  tr87-cd924810: score=0.00, levels=0.0/6, actions=0, tokens=0
+  tu93-0768757b: score=0.00, levels=0.0/9, actions=0, tokens=0
+  vc33-5430563c: score=0.00, levels=0.0/7, actions=0, tokens=0
+  wa30-ee6fef47: score=0.00, levels=0.0/9, actions=0, tokens=0
+
+analyzer request timed out at action 22; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 102; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 19; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 42; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 32; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 102; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 19; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 101; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 37; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 115; yielding with 1 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 32; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 19; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 11; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 32; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 54; yielding with 1 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 19; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 117; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 11; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 34; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 38; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 54; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 19; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 11; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 119; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 33; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 92; yielding with 2 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+benchmark: duck-harness-kaggle
+solver:    duck-harness
+games:     25
+passes:    1
+runs:      25 (won: 0)
+started:   2026-10-12 02:21:28
+ended:     in progress
+mean score:    14.09
+median score:  4.76
+total actions: 1433
+total tokens:  1132754
+generated tokens/sec: 269.64 (job wallclock)
+total wallclock: 68809.1s
+
+per-game (mean across passes):
+  ar25-0c556536: score=41.67, levels=5.0/8, actions=145, tokens=74251
+  bp35-0a0ad940: score=0.80, levels=1.0/9, actions=43, tokens=69855
+  cd82-fb555c5d: score=47.62, levels=4.0/6, actions=110, tokens=64830
+  cn04-2fe56bfb: score=4.76, levels=1.0/6, actions=40, tokens=61811
+  dc22-fdcac232: score=4.60, levels=1.0/6, actions=76, tokens=61795
+  ft09-0d8bbf25: score=47.62, levels=4.0/6, actions=51, tokens=54654
+  g50t-5849a774: score=3.57, levels=1.0/7, actions=62, tokens=82024
+  ka59-38d34dbb: score=3.57, levels=1.0/7, actions=35, tokens=43303
+  lf52-271a04aa: score=5.45, levels=2.0/10, actions=83, tokens=75626
+  lp85-305b61c3: score=41.67, levels=5.0/8, actions=95, tokens=76192
+  ls20-9607627b: score=1.59, levels=1.0/7, actions=45, tokens=51249
+  m0r0-492f87ba: score=12.98, levels=2.0/6, actions=92, tokens=53671
+  r11l-495a7899: score=4.76, levels=1.0/6, actions=10, tokens=48636
+  re86-8af5384d: score=27.78, levels=4.0/8, actions=159, tokens=54794
+  s5i5-18d95033: score=2.78, levels=1.0/8, actions=32, tokens=32861
+  sb26-7fbdac44: score=58.33, levels=6.0/8, actions=118, tokens=43621
+  sc25-635fd71a: score=7.44, levels=2.0/6, actions=129, tokens=50951
+  sk48-d8078629: score=0.00, levels=0.0/8, actions=18, tokens=38865
+  sp80-589a99af: score=28.57, levels=3.0/6, actions=37, tokens=48055
+  su15-1944f8ab: score=6.67, levels=2.0/9, actions=53, tokens=45710
+  tn36-ef4dde99: score=0.00, levels=0.0/7, actions=0, tokens=0
+  tr87-cd924810: score=0.00, levels=0.0/6, actions=0, tokens=0
+  tu93-0768757b: score=0.00, levels=0.0/9, actions=0, tokens=0
+  vc33-5430563c: score=0.00, levels=0.0/7, actions=0, tokens=0
+  wa30-ee6fef47: score=0.00, levels=0.0/9, actions=0, tokens=0
+
+analyzer request timed out at action 54; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 19; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 38; yielding with 1 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 33; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 160; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 120; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 19; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 46; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 134; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 33; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 57; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 19; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 42; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 33; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 104; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 51; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 19; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 120; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 33; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 139; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 19; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 33; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 70; yielding with 1 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+benchmark: duck-harness-kaggle
+solver:    duck-harness
+games:     25
+passes:    1
+runs:      25 (won: 0)
+started:   2026-10-12 02:21:28
+ended:     in progress
+mean score:    15.79
+median score:  4.76
+total actions: 1500
+total tokens:  1176157
+generated tokens/sec: 244.98 (job wallclock)
+total wallclock: 72468.4s
+
+per-game (mean across passes):
+  ar25-0c556536: score=41.67, levels=5.0/8, actions=145, tokens=74251
+  bp35-0a0ad940: score=0.80, levels=1.0/9, actions=43, tokens=69855
+  cd82-fb555c5d: score=47.62, levels=4.0/6, actions=110, tokens=64830
+  cn04-2fe56bfb: score=4.76, levels=1.0/6, actions=40, tokens=61811
+  dc22-fdcac232: score=4.60, levels=1.0/6, actions=76, tokens=61795
+  ft09-0d8bbf25: score=47.62, levels=4.0/6, actions=51, tokens=54654
+  g50t-5849a774: score=3.57, levels=1.0/7, actions=62, tokens=82024
+  ka59-38d34dbb: score=3.57, levels=1.0/7, actions=35, tokens=43303
+  lf52-271a04aa: score=5.45, levels=2.0/10, actions=83, tokens=75626
+  lp85-305b61c3: score=41.67, levels=5.0/8, actions=95, tokens=76192
+  ls20-9607627b: score=1.59, levels=1.0/7, actions=50, tokens=55272
+  m0r0-492f87ba: score=12.98, levels=2.0/6, actions=103, tokens=59225
+  r11l-495a7899: score=4.76, levels=1.0/6, actions=11, tokens=49781
+  re86-8af5384d: score=27.78, levels=4.0/8, actions=159, tokens=54794
+  s5i5-18d95033: score=2.78, levels=1.0/8, actions=32, tokens=32861
+  sb26-7fbdac44: score=77.78, levels=7.0/8, actions=129, tokens=51226
+  sc25-635fd71a: score=23.87, levels=3.0/6, actions=148, tokens=57709
+  sk48-d8078629: score=0.00, levels=0.0/8, actions=18, tokens=38865
+  sp80-589a99af: score=28.57, levels=3.0/6, actions=41, tokens=57927
+  su15-1944f8ab: score=13.33, levels=3.0/9, actions=69, tokens=54156
+  tn36-ef4dde99: score=0.00, levels=0.0/7, actions=0, tokens=0
+  tr87-cd924810: score=0.00, levels=0.0/6, actions=0, tokens=0
+  tu93-0768757b: score=0.00, levels=0.0/9, actions=0, tokens=0
+  vc33-5430563c: score=0.00, levels=0.0/7, actions=0, tokens=0
+  wa30-ee6fef47: score=0.00, levels=0.0/9, actions=0, tokens=0
+
+analyzer request timed out at action 19; yielding with 1 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 42; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 33; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 12; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 70; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 160; yielding with 1 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 19; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 42; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 33; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 137; yielding with 5 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 71; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 51; yielding with 1 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 19; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 33; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 137; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 19; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 33; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 137; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 19; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 223; yielding with 1 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 33; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 137; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+benchmark: duck-harness-kaggle
+solver:    duck-harness
+games:     25
+passes:    1
+runs:      25 (won: 0)
+started:   2026-10-12 02:21:28
+ended:     in progress
+mean score:    16.35
+median score:  4.76
+total actions: 1621
+total tokens:  1262604
+generated tokens/sec: 233.77 (job wallclock)
+total wallclock: 76923.1s
+
+per-game (mean across passes):
+  ar25-0c556536: score=41.67, levels=5.0/8, actions=145, tokens=74251
+  bp35-0a0ad940: score=0.80, levels=1.0/9, actions=43, tokens=69855
+  cd82-fb555c5d: score=47.62, levels=4.0/6, actions=110, tokens=64830
+  cn04-2fe56bfb: score=4.76, levels=1.0/6, actions=40, tokens=61811
+  dc22-fdcac232: score=4.60, levels=1.0/6, actions=76, tokens=61795
+  ft09-0d8bbf25: score=47.62, levels=4.0/6, actions=51, tokens=54654
+  g50t-5849a774: score=3.57, levels=1.0/7, actions=62, tokens=82024
+  ka59-38d34dbb: score=3.57, levels=1.0/7, actions=35, tokens=43303
+  lf52-271a04aa: score=5.45, levels=2.0/10, actions=83, tokens=75626
+  lp85-305b61c3: score=41.67, levels=5.0/8, actions=95, tokens=76192
+  ls20-9607627b: score=1.59, levels=1.0/7, actions=50, tokens=55272
+  m0r0-492f87ba: score=12.98, levels=2.0/6, actions=113, tokens=77473
+  r11l-495a7899: score=4.76, levels=1.0/6, actions=12, tokens=76728
+  re86-8af5384d: score=41.67, levels=5.0/8, actions=223, tokens=75836
+  s5i5-18d95033: score=2.78, levels=1.0/8, actions=32, tokens=32861
+  sb26-7fbdac44: score=77.78, levels=7.0/8, actions=136, tokens=51394
+  sc25-635fd71a: score=23.87, levels=3.0/6, actions=181, tokens=67876
+  sk48-d8078629: score=0.00, levels=0.0/8, actions=18, tokens=38865
+  sp80-589a99af: score=28.57, levels=3.0/6, actions=41, tokens=57927
+  su15-1944f8ab: score=13.33, levels=3.0/9, actions=75, tokens=64031
+  tn36-ef4dde99: score=0.00, levels=0.0/7, actions=0, tokens=0
+  tr87-cd924810: score=0.00, levels=0.0/6, actions=0, tokens=0
+  tu93-0768757b: score=0.00, levels=0.0/9, actions=0, tokens=0
+  vc33-5430563c: score=0.00, levels=0.0/7, actions=0, tokens=0
+  wa30-ee6fef47: score=0.00, levels=0.0/9, actions=0, tokens=0
+
+analyzer request timed out at action 51; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 19; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 33; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 137; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 51; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 78; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 19; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 33; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 137; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 78; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 20; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 116; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 33; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 24; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 20; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=15.309172053998736)
+[finished] r11l-495a7899 state=gave_up level=1/6 score=4.76 actions=19 tokens=80587 per-level=8/22,11/33,0/51,0/26,0/52,0/49 note="tokens=85225"
+analyzer request timed out at action 24; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=5.97687877899898)
+[finished] sk48-d8078629 state=gave_up level=0/8 score=0.00 actions=23 tokens=42219 per-level=23/61,0/177,0/101,0/103,0/230,0/181,0/125,0/92 note="tokens=42219"
+analyzer request timed out at action 51; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=92.24761808599942)
+[finished] ls20-9607627b state=gave_up level=1/7 score=1.59 actions=50 tokens=55272 per-level=33/22,17/123,0/73,0/84,0/96,0/192,0/186 note="tokens=73297"
+analyzer request timed out at action 33; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=65.55006456900082)
+[finished] s5i5-18d95033 state=gave_up level=1/8 score=2.78 actions=32 tokens=32861 per-level=20/20,12/89,0/106,0/54,0/162,0/38,0/86,0/83 note="tokens=32861"
+analyzer request timed out at action 60; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=4.786871704000077)
+[finished] sp80-589a99af state=gave_up level=3/6 score=28.57 actions=59 tokens=86687 per-level=9/39,16/58,10/25,24/148,0/96,0/152 note="tokens=86687"
+analyzer request timed out at action 137; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=65.8064522780005)
+[finished] sb26-7fbdac44 state=gave_up level=7/8 score=77.78 actions=136 tokens=51394 per-level=9/18,25/28,15/18,15/19,17/31,19/23,19/58,17/18 note="tokens=55751"
+analyzer request timed out at action 203; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=47.453290908999406)
+[finished] sc25-635fd71a state=gave_up level=3/6 score=23.87 actions=202 tokens=77515 per-level=118/36,7/6,23/32,54/83,0/143,0/50 note="tokens=77515"
+analyzer request timed out at action 235; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=80.6543986509987)
+[finished] re86-8af5384d state=gave_up level=5/8 score=41.67 actions=234 tokens=84415 per-level=21/26,41/42,47/86,50/108,63/189,12/139,0/424,0/241 note="tokens=84415"
+analyzer request timed out at action 79; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=86.66784299499886)
+[finished] su15-1944f8ab state=gave_up level=3/9 score=13.33 actions=78 tokens=68130 per-level=26/22,27/42,16/26,9/115,0/36,0/31,0/8,0/40,0/41 note="tokens=68130"
+analyzer request timed out at action 116; yielding with 1 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=72.04769263399976)
+[finished] m0r0-492f87ba state=gave_up level=2/6 score=12.98 actions=115 tokens=78292 per-level=46/30,45/111,24/203,0/26,0/500,0/237 note="tokens=81678"
+benchmark: duck-harness-kaggle
+solver:    duck-harness
+games:     25
+passes:    1
+runs:      25 (won: 0)
+started:   2026-10-12 02:21:28
+ended:     in progress
+mean score:    16.45
+median score:  4.76
+total actions: 1763
+total tokens:  1382537
+generated tokens/sec: 230.38 (job wallclock)
+total wallclock: 116861.4s
+
+per-game (mean across passes):
+  ar25-0c556536: score=41.67, levels=5.0/8, actions=145, tokens=74251
+  bp35-0a0ad940: score=0.80, levels=1.0/9, actions=43, tokens=69855
+  cd82-fb555c5d: score=47.62, levels=4.0/6, actions=110, tokens=64830
+  cn04-2fe56bfb: score=4.76, levels=1.0/6, actions=40, tokens=61811
+  dc22-fdcac232: score=4.60, levels=1.0/6, actions=76, tokens=61795
+  ft09-0d8bbf25: score=47.62, levels=4.0/6, actions=51, tokens=54654
+  g50t-5849a774: score=3.57, levels=1.0/7, actions=62, tokens=82024
+  ka59-38d34dbb: score=3.57, levels=1.0/7, actions=35, tokens=43303
+  lf52-271a04aa: score=5.45, levels=2.0/10, actions=83, tokens=75626
+  lp85-305b61c3: score=41.67, levels=5.0/8, actions=95, tokens=76192
+  ls20-9607627b: score=1.59, levels=1.0/7, actions=50, tokens=55272
+  m0r0-492f87ba: score=12.98, levels=2.0/6, actions=115, tokens=78292
+  r11l-495a7899: score=4.76, levels=1.0/6, actions=19, tokens=80587
+  re86-8af5384d: score=41.67, levels=5.0/8, actions=234, tokens=84415
+  s5i5-18d95033: score=2.78, levels=1.0/8, actions=32, tokens=32861
+  sb26-7fbdac44: score=77.78, levels=7.0/8, actions=136, tokens=51394
+  sc25-635fd71a: score=23.87, levels=3.0/6, actions=202, tokens=77515
+  sk48-d8078629: score=0.00, levels=0.0/8, actions=23, tokens=42219
+  sp80-589a99af: score=28.57, levels=3.0/6, actions=59, tokens=86687
+  su15-1944f8ab: score=13.33, levels=3.0/9, actions=78, tokens=68130
+  tn36-ef4dde99: score=0.00, levels=0.0/7, actions=5, tokens=15761
+  tr87-cd924810: score=0.00, levels=0.0/6, actions=2, tokens=1849
+  tu93-0768757b: score=2.22, levels=1.0/9, actions=27, tokens=16517
+  vc33-5430563c: score=0.33, levels=1.0/7, actions=25, tokens=12902
+  wa30-ee6fef47: score=0.00, levels=0.0/9, actions=16, tokens=13795
+
+analyzer request timed out at action 28; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 24; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+benchmark: duck-harness-kaggle
+solver:    duck-harness
+games:     25
+passes:    1
+runs:      25 (won: 0)
+started:   2026-10-12 02:21:28
+ended:     in progress
+mean score:    18.31
+median score:  6.67
+total actions: 2026
+total tokens:  1612648
+generated tokens/sec: 244.30 (job wallclock)
+total wallclock: 119920.0s
+
+per-game (mean across passes):
+  ar25-0c556536: score=41.67, levels=5.0/8, actions=145, tokens=74251
+  bp35-0a0ad940: score=0.80, levels=1.0/9, actions=43, tokens=69855
+  cd82-fb555c5d: score=47.62, levels=4.0/6, actions=110, tokens=64830
+  cn04-2fe56bfb: score=4.76, levels=1.0/6, actions=40, tokens=61811
+  dc22-fdcac232: score=4.60, levels=1.0/6, actions=76, tokens=61795
+  ft09-0d8bbf25: score=47.62, levels=4.0/6, actions=51, tokens=54654
+  g50t-5849a774: score=3.57, levels=1.0/7, actions=62, tokens=82024
+  ka59-38d34dbb: score=3.57, levels=1.0/7, actions=35, tokens=43303
+  lf52-271a04aa: score=5.45, levels=2.0/10, actions=83, tokens=75626
+  lp85-305b61c3: score=41.67, levels=5.0/8, actions=95, tokens=76192
+  ls20-9607627b: score=1.59, levels=1.0/7, actions=50, tokens=55272
+  m0r0-492f87ba: score=12.98, levels=2.0/6, actions=115, tokens=78292
+  r11l-495a7899: score=4.76, levels=1.0/6, actions=19, tokens=80587
+  re86-8af5384d: score=41.67, levels=5.0/8, actions=234, tokens=84415
+  s5i5-18d95033: score=2.78, levels=1.0/8, actions=32, tokens=32861
+  sb26-7fbdac44: score=77.78, levels=7.0/8, actions=136, tokens=51394
+  sc25-635fd71a: score=23.87, levels=3.0/6, actions=202, tokens=77515
+  sk48-d8078629: score=0.00, levels=0.0/8, actions=23, tokens=42219
+  sp80-589a99af: score=28.57, levels=3.0/6, actions=59, tokens=86687
+  su15-1944f8ab: score=13.33, levels=3.0/9, actions=78, tokens=68130
+  tn36-ef4dde99: score=3.57, levels=1.0/7, actions=37, tokens=55374
+  tr87-cd924810: score=4.76, levels=1.0/6, actions=38, tokens=53050
+  tu93-0768757b: score=13.33, levels=3.0/9, actions=63, tokens=55039
+  vc33-5430563c: score=20.87, levels=3.0/7, actions=89, tokens=65468
+  wa30-ee6fef47: score=6.67, levels=2.0/9, actions=111, tokens=62004
+
+analyzer request timed out at action 43; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+analyzer request timed out at action 84; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=120.0)
+benchmark: duck-harness-kaggle
+solver:    duck-harness
+games:     25
+passes:    1
+runs:      25 (won: 0)
+started:   2026-10-12 02:21:28
+ended:     in progress
+mean score:    20.93
+median score:  12.98
+total actions: 2454
+total tokens:  1820487
+generated tokens/sec: 252.81 (job wallclock)
+total wallclock: 122811.9s
+
+per-game (mean across passes):
+  ar25-0c556536: score=41.67, levels=5.0/8, actions=145, tokens=74251
+  bp35-0a0ad940: score=0.80, levels=1.0/9, actions=43, tokens=69855
+  cd82-fb555c5d: score=47.62, levels=4.0/6, actions=110, tokens=64830
+  cn04-2fe56bfb: score=4.76, levels=1.0/6, actions=40, tokens=61811
+  dc22-fdcac232: score=4.60, levels=1.0/6, actions=76, tokens=61795
+  ft09-0d8bbf25: score=47.62, levels=4.0/6, actions=51, tokens=54654
+  g50t-5849a774: score=3.57, levels=1.0/7, actions=62, tokens=82024
+  ka59-38d34dbb: score=3.57, levels=1.0/7, actions=35, tokens=43303
+  lf52-271a04aa: score=5.45, levels=2.0/10, actions=83, tokens=75626
+  lp85-305b61c3: score=41.67, levels=5.0/8, actions=95, tokens=76192
+  ls20-9607627b: score=1.59, levels=1.0/7, actions=50, tokens=55272
+  m0r0-492f87ba: score=12.98, levels=2.0/6, actions=115, tokens=78292
+  r11l-495a7899: score=4.76, levels=1.0/6, actions=19, tokens=80587
+  re86-8af5384d: score=41.67, levels=5.0/8, actions=234, tokens=84415
+  s5i5-18d95033: score=2.78, levels=1.0/8, actions=32, tokens=32861
+  sb26-7fbdac44: score=77.78, levels=7.0/8, actions=136, tokens=51394
+  sc25-635fd71a: score=23.87, levels=3.0/6, actions=202, tokens=77515
+  sk48-d8078629: score=0.00, levels=0.0/8, actions=23, tokens=42219
+  sp80-589a99af: score=28.57, levels=3.0/6, actions=59, tokens=86687
+  su15-1944f8ab: score=13.33, levels=3.0/9, actions=78, tokens=68130
+  tn36-ef4dde99: score=3.57, levels=1.0/7, actions=62, tokens=88209
+  tr87-cd924810: score=46.46, levels=4.0/6, actions=201, tokens=100957
+  tu93-0768757b: score=22.22, levels=4.0/9, actions=101, tokens=97313
+  vc33-5430563c: score=35.71, levels=4.0/7, actions=124, tokens=110577
+  wa30-ee6fef47: score=6.67, levels=2.0/9, actions=278, tokens=101718
+
+benchmark: duck-harness-kaggle
+solver:    duck-harness
+games:     25
+passes:    1
+runs:      25 (won: 0)
+started:   2026-10-12 02:21:28
+ended:     in progress
+mean score:    25.25
+median score:  12.98
+total actions: 2892
+total tokens:  2029596
+generated tokens/sec: 260.17 (job wallclock)
+total wallclock: 125570.8s
+
+per-game (mean across passes):
+  ar25-0c556536: score=41.67, levels=5.0/8, actions=145, tokens=74251
+  bp35-0a0ad940: score=0.80, levels=1.0/9, actions=43, tokens=69855
+  cd82-fb555c5d: score=47.62, levels=4.0/6, actions=110, tokens=64830
+  cn04-2fe56bfb: score=4.76, levels=1.0/6, actions=40, tokens=61811
+  dc22-fdcac232: score=4.60, levels=1.0/6, actions=76, tokens=61795
+  ft09-0d8bbf25: score=47.62, levels=4.0/6, actions=51, tokens=54654
+  g50t-5849a774: score=3.57, levels=1.0/7, actions=62, tokens=82024
+  ka59-38d34dbb: score=3.57, levels=1.0/7, actions=35, tokens=43303
+  lf52-271a04aa: score=5.45, levels=2.0/10, actions=83, tokens=75626
+  lp85-305b61c3: score=41.67, levels=5.0/8, actions=95, tokens=76192
+  ls20-9607627b: score=1.59, levels=1.0/7, actions=50, tokens=55272
+  m0r0-492f87ba: score=12.98, levels=2.0/6, actions=115, tokens=78292
+  r11l-495a7899: score=4.76, levels=1.0/6, actions=19, tokens=80587
+  re86-8af5384d: score=41.67, levels=5.0/8, actions=234, tokens=84415
+  s5i5-18d95033: score=2.78, levels=1.0/8, actions=32, tokens=32861
+  sb26-7fbdac44: score=77.78, levels=7.0/8, actions=136, tokens=51394
+  sc25-635fd71a: score=23.87, levels=3.0/6, actions=202, tokens=77515
+  sk48-d8078629: score=0.00, levels=0.0/8, actions=23, tokens=42219
+  sp80-589a99af: score=28.57, levels=3.0/6, actions=59, tokens=86687
+  su15-1944f8ab: score=13.33, levels=3.0/9, actions=78, tokens=68130
+  tn36-ef4dde99: score=3.57, levels=1.0/7, actions=71, tokens=123870
+  tr87-cd924810: score=71.43, levels=5.0/6, actions=346, tokens=143038
+  tu93-0768757b: score=62.22, levels=7.0/9, actions=202, tokens=143098
+  vc33-5430563c: score=75.00, levels=6.0/7, actions=192, tokens=155373
+  wa30-ee6fef47: score=10.47, levels=3.0/9, actions=393, tokens=142504
+
+[finished] vc33-5430563c state=won level=7/7 score=100.00 actions=240 tokens=163978 per-level=23/7,13/18,32/44,49/61,50/131,24/34,49/152 note="tokens=163978"
+[finished] tr87-cd924810 state=won level=6/6 score=100.00 actions=375 tokens=170094 per-level=31/54,110/58,22/40,25/45,47/71,140/146 note="tokens=170094"
+benchmark: duck-harness-kaggle
+solver:    duck-harness
+games:     25
+passes:    1
+runs:      25 (won: 2)
+started:   2026-10-12 02:21:28
+ended:     in progress
+mean score:    27.40
+median score:  12.98
+total actions: 3190
+total tokens:  2243632
+generated tokens/sec: 267.07 (job wallclock)
+total wallclock: 128074.0s
+
+per-game (mean across passes):
+  ar25-0c556536: score=41.67, levels=5.0/8, actions=145, tokens=74251
+  bp35-0a0ad940: score=0.80, levels=1.0/9, actions=43, tokens=69855
+  cd82-fb555c5d: score=47.62, levels=4.0/6, actions=110, tokens=64830
+  cn04-2fe56bfb: score=4.76, levels=1.0/6, actions=40, tokens=61811
+  dc22-fdcac232: score=4.60, levels=1.0/6, actions=76, tokens=61795
+  ft09-0d8bbf25: score=47.62, levels=4.0/6, actions=51, tokens=54654
+  g50t-5849a774: score=3.57, levels=1.0/7, actions=62, tokens=82024
+  ka59-38d34dbb: score=3.57, levels=1.0/7, actions=35, tokens=43303
+  lf52-271a04aa: score=5.45, levels=2.0/10, actions=83, tokens=75626
+  lp85-305b61c3: score=41.67, levels=5.0/8, actions=95, tokens=76192
+  ls20-9607627b: score=1.59, levels=1.0/7, actions=50, tokens=55272
+  m0r0-492f87ba: score=12.98, levels=2.0/6, actions=115, tokens=78292
+  r11l-495a7899: score=4.76, levels=1.0/6, actions=19, tokens=80587
+  re86-8af5384d: score=41.67, levels=5.0/8, actions=234, tokens=84415
+  s5i5-18d95033: score=2.78, levels=1.0/8, actions=32, tokens=32861
+  sb26-7fbdac44: score=77.78, levels=7.0/8, actions=136, tokens=51394
+  sc25-635fd71a: score=23.87, levels=3.0/6, actions=202, tokens=77515
+  sk48-d8078629: score=0.00, levels=0.0/8, actions=23, tokens=42219
+  sp80-589a99af: score=28.57, levels=3.0/6, actions=59, tokens=86687
+  su15-1944f8ab: score=13.33, levels=3.0/9, actions=78, tokens=68130
+  tn36-ef4dde99: score=3.57, levels=1.0/7, actions=106, tokens=194409
+  tr87-cd924810: score=100.00, levels=6.0/6, actions=375, tokens=170094
+  tu93-0768757b: score=62.22, levels=7.0/9, actions=232, tokens=205904
+  vc33-5430563c: score=100.00, levels=7.0/7, actions=240, tokens=163978
+  wa30-ee6fef47: score=10.47, levels=3.0/9, actions=549, tokens=187534
+
+analyzer request timed out at action 585; yielding with 0 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=7.4404044180009805)
+[finished] wa30-ee6fef47 state=gave_up level=3/9 score=10.47 actions=584 tokens=203761 per-level=41/71,59/119,282/183,202/98,0/368,0/68,0/79,0/442,0/415 note="tokens=212389"
+[finished] tu93-0768757b state=gave_up level=7/9 score=62.22 actions=245 tokens=234215 per-level=18/19,15/16,25/34,17/42,58/123,40/80,18/14,54/23,0/111 note="tokens=239420"
+analyzer request timed out at action 114; yielding with 1 tool call(s) preserved: HTTPConnectionPool(host='127.0.0.1', port=8001): Read timed out. (read timeout=23.335024112999236)
+[finished] tn36-ef4dde99 state=gave_up level=1/7 score=3.57 actions=113 tokens=225561 per-level=12/32,101/72,0/26,0/40,0/30,0/55,0/62 note="tokens=235827"
+benchmark: duck-harness-kaggle
+solver:    duck-harness
+games:     25
+passes:    1
+runs:      25 (won: 2)
+started:   2026-10-12 02:21:28
+ended:     2026-10-12 04:46:45
+duration:  2h 25m 16s
+mean score:    27.40
+median score:  12.98
+total actions: 3245
+total tokens:  2319322
+generated tokens/sec: 266.09 (job wallclock)
+total wallclock: 129104.1s
+
+per-game (mean across passes):
+  ar25-0c556536: score=41.67, levels=5.0/8, actions=145, tokens=74251
+  bp35-0a0ad940: score=0.80, levels=1.0/9, actions=43, tokens=69855
+  cd82-fb555c5d: score=47.62, levels=4.0/6, actions=110, tokens=64830
+  cn04-2fe56bfb: score=4.76, levels=1.0/6, actions=40, tokens=61811
+  dc22-fdcac232: score=4.60, levels=1.0/6, actions=76, tokens=61795
+  ft09-0d8bbf25: score=47.62, levels=4.0/6, actions=51, tokens=54654
+  g50t-5849a774: score=3.57, levels=1.0/7, actions=62, tokens=82024
+  ka59-38d34dbb: score=3.57, levels=1.0/7, actions=35, tokens=43303
+  lf52-271a04aa: score=5.45, levels=2.0/10, actions=83, tokens=75626
+  lp85-305b61c3: score=41.67, levels=5.0/8, actions=95, tokens=76192
+  ls20-9607627b: score=1.59, levels=1.0/7, actions=50, tokens=55272
+  m0r0-492f87ba: score=12.98, levels=2.0/6, actions=115, tokens=78292
+  r11l-495a7899: score=4.76, levels=1.0/6, actions=19, tokens=80587
+  re86-8af5384d: score=41.67, levels=5.0/8, actions=234, tokens=84415
+  s5i5-18d95033: score=2.78, levels=1.0/8, actions=32, tokens=32861
+  sb26-7fbdac44: score=77.78, levels=7.0/8, actions=136, tokens=51394
+  sc25-635fd71a: score=23.87, levels=3.0/6, actions=202, tokens=77515
+  sk48-d8078629: score=0.00, levels=0.0/8, actions=23, tokens=42219
+  sp80-589a99af: score=28.57, levels=3.0/6, actions=59, tokens=86687
+  su15-1944f8ab: score=13.33, levels=3.0/9, actions=78, tokens=68130
+  tn36-ef4dde99: score=3.57, levels=1.0/7, actions=113, tokens=225561
+  tr87-cd924810: score=100.00, levels=6.0/6, actions=375, tokens=170094
+  tu93-0768757b: score=62.22, levels=7.0/9, actions=245, tokens=234215
+  vc33-5430563c: score=100.00, levels=7.0/7, actions=240, tokens=163978
+  wa30-ee6fef47: score=10.47, levels=3.0/9, actions=584, tokens=203761
+

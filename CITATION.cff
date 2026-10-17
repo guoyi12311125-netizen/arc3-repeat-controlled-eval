@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this code or these artifacts, cite the paper."
+title: "Before Tuning the Harness: Repeat-Controlled Evaluation and Request-Level Accounting for ARC-AGI-3"
+type: software
+authors:
+  - family-names: Zhang
+    given-names: Guoyi
+    affiliation: "College of Sports Medicine and Rehabilitation, Shandong First Medical University & Shandong Academy of Medical Sciences, Tai'an, Shandong, China"
+    email: "zhanguo2-1@outlook.com"
+version: "1.0"
+date-released: "2026-10-17"
+license: MIT-0
+repository-code: "https://github.com/guoyi12311125-netizen/arc3-repeat-controlled-eval"
+url: "https://github.com/guoyi12311125-netizen/arc3-repeat-controlled-eval"
+abstract: >-
+  Artifacts for a paper on repeat-controlled evaluation of an interactive
+  reasoning agent on ARC-AGI-3: every pushed Kaggle notebook, the harness
+  patch, the analysis scripts that regenerate every number in the paper,
+  per-game tables, the experiment registry, and the manuscript. The linked
+  competition submission is 57174905 (public score 30.21).
+keywords:
+  - ARC-AGI-3
+  - reproducibility
+  - agent evaluation
+  - benchmark variance
+  - request-level accounting

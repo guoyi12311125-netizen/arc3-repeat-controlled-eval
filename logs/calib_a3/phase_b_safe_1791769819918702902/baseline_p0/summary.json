@@ -1,0 +1,27 @@
+{
+  "worker": {
+    "profile": "baseline",
+    "global_pass": 0,
+    "local_pass": 0,
+    "overrides": {
+      "ARC3_MAX_ACTIVE_STREAMS": "10"
+    },
+    "admission": 10,
+    "n_passes": 1,
+    "game_count": 25,
+    "solver_concurrency": 10,
+    "context_tokens": 131072,
+    "max_output_tokens": 12288,
+    "analyzer_timeout_seconds": 120,
+    "max_runtime_s_per_game": 2900,
+    "waves": 3,
+    "worker_hard_limit_seconds": 8950,
+    "output_name": "baseline_p0"
+  },
+  "status": "RECORDED_REQUIRES_REVIEW",
+  "complete": true,
+  "row_count": 25,
+  "native_finished_games": 25,
+  "scores_imputed": false,
+  "promoted": false
+}

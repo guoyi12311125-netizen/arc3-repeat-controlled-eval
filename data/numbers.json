@@ -1,0 +1,306 @@
+{
+ "E5_screen": {
+  "baseline": {
+   "games": 10,
+   "mean": 12.9077,
+   "levels": 17,
+   "levels_total": 73,
+   "actions": 552,
+   "errors": 68,
+   "nonzero": 7,
+   "source": "e5_behavior\\out\\phase_b_safe_1791857607678366179\\baseline_p0\\metrics.json"
+  },
+  "noop_guard": {
+   "games": 10,
+   "mean": 22.0431,
+   "levels": 24,
+   "levels_total": 73,
+   "actions": 658,
+   "errors": 62,
+   "nonzero": 9,
+   "source": "e5_behavior\\out\\phase_b_safe_1791857607678366179\\noop_guard_p0\\metrics.json"
+  }
+ },
+ "E5b_screen": {
+  "baseline": {
+   "games": 10,
+   "mean": 14.8954,
+   "levels": 21,
+   "levels_total": 73,
+   "actions": 635,
+   "errors": 71,
+   "nonzero": 9,
+   "source": "e5b\\out\\phase_b_safe_1791871401644733360\\baseline_p0\\metrics.json"
+  },
+  "baseline_rep": {
+   "games": 10,
+   "mean": 18.2211,
+   "levels": 20,
+   "levels_total": 73,
+   "actions": 655,
+   "errors": 68,
+   "nonzero": 8,
+   "source": "e5b\\out\\phase_b_safe_1791871401644733360\\baseline_rep_p0\\metrics.json"
+  },
+  "drain60": {
+   "games": 10,
+   "mean": 20.9142,
+   "levels": 22,
+   "levels_total": 73,
+   "actions": 546,
+   "errors": 63,
+   "nonzero": 8,
+   "source": "e5b\\out\\phase_b_safe_1791871401644733360\\drain60_p0\\metrics.json"
+  },
+  "inventory": {
+   "games": 10,
+   "mean": 13.5945,
+   "levels": 20,
+   "levels_total": 73,
+   "actions": 649,
+   "errors": 73,
+   "nonzero": 9,
+   "source": "e5b\\out\\phase_b_safe_1791871401644733360\\inventory_p0\\metrics.json"
+  },
+  "memory_slim": {
+   "games": 10,
+   "mean": 15.563,
+   "levels": 21,
+   "levels_total": 73,
+   "actions": 635,
+   "errors": 65,
+   "nonzero": 9,
+   "source": "e5b\\out\\phase_b_safe_1791871401644733360\\memory_slim_p0\\metrics.json"
+  },
+  "noop_guard": {
+   "games": 10,
+   "mean": 20.4334,
+   "levels": 23,
+   "levels_total": 73,
+   "actions": 652,
+   "errors": 62,
+   "nonzero": 9,
+   "source": "e5b\\out\\phase_b_safe_1791871401644733360\\noop_guard_p0\\metrics.json"
+  }
+ },
+ "E6_combo": {
+  "baseline": {
+   "games": 10,
+   "mean": 11.5152,
+   "levels": 17,
+   "levels_total": 73,
+   "actions": 631,
+   "errors": 67,
+   "nonzero": 8,
+   "source": "e6\\out\\phase_b_safe_1791952567840217146\\baseline_p0\\metrics.json"
+  },
+  "baseline_rep": {
+   "games": 10,
+   "mean": 14.7121,
+   "levels": 20,
+   "levels_total": 73,
+   "actions": 625,
+   "errors": 72,
+   "nonzero": 8,
+   "source": "e6\\out\\phase_b_safe_1791952567840217146\\baseline_rep_p0\\metrics.json"
+  },
+  "combo": {
+   "games": 10,
+   "mean": 15.6146,
+   "levels": 20,
+   "levels_total": 73,
+   "actions": 708,
+   "errors": 60,
+   "nonzero": 7,
+   "source": "e6\\out\\phase_b_safe_1791952567840217146\\combo_p0\\metrics.json"
+  },
+  "drain60": {
+   "games": 10,
+   "mean": 16.7093,
+   "levels": 22,
+   "levels_total": 73,
+   "actions": 569,
+   "errors": 66,
+   "nonzero": 9,
+   "source": "e6\\out\\phase_b_safe_1791952567840217146\\drain60_p0\\metrics.json"
+  },
+  "noop_guard": {
+   "games": 10,
+   "mean": 20.421,
+   "levels": 21,
+   "levels_total": 73,
+   "actions": 650,
+   "errors": 70,
+   "nonzero": 7,
+   "source": "e6\\out\\phase_b_safe_1791952567840217146\\noop_guard_p0\\metrics.json"
+  }
+ },
+ "E7_matrix": {
+  "base_1": {
+   "games": 10,
+   "mean": 12.7115,
+   "levels": 20,
+   "levels_total": 73,
+   "actions": 617,
+   "errors": 67,
+   "nonzero": 8,
+   "source": "e7\\out\\phase_b_safe_1791969354283162683\\base_1_p0\\metrics.json"
+  },
+  "base_2": {
+   "games": 10,
+   "mean": 13.5286,
+   "levels": 20,
+   "levels_total": 73,
+   "actions": 656,
+   "errors": 65,
+   "nonzero": 9,
+   "source": "e7\\out\\phase_b_safe_1791969354283162683\\base_2_p0\\metrics.json"
+  },
+  "base_3": {
+   "games": 10,
+   "mean": 12.3006,
+   "levels": 17,
+   "levels_total": 73,
+   "actions": 664,
+   "errors": 78,
+   "nonzero": 6,
+   "source": "e7\\out\\phase_b_safe_1791969354283162683\\base_3_p0\\metrics.json"
+  },
+  "guard_1": {
+   "games": 10,
+   "mean": 15.431,
+   "levels": 22,
+   "levels_total": 73,
+   "actions": 597,
+   "errors": 64,
+   "nonzero": 9,
+   "source": "e7\\out\\phase_b_safe_1791969354283162683\\guard_1_p0\\metrics.json"
+  },
+  "guard_2": {
+   "games": 10,
+   "mean": 18.658,
+   "levels": 22,
+   "levels_total": 73,
+   "actions": 639,
+   "errors": 66,
+   "nonzero": 8,
+   "source": "e7\\out\\phase_b_safe_1791969354283162683\\guard_2_p0\\metrics.json"
+  },
+  "guard_3": {
+   "games": 10,
+   "mean": 12.426,
+   "levels": 17,
+   "levels_total": 73,
+   "actions": 652,
+   "errors": 71,
+   "nonzero": 7,
+   "source": "e7\\out\\phase_b_safe_1791969354283162683\\guard_3_p0\\metrics.json"
+  }
+ },
+ "a2_25games_2900s_guard1GiB": {
+  "games": 25,
+  "mean": 14.7248,
+  "levels": 37,
+  "levels_total": 183,
+  "actions": 1334,
+  "errors": 29,
+  "nonzero": 11,
+  "source": "calib_a2\\output\\phase_b_safe_1791750955488883931\\baseline_p0\\metrics.json"
+ },
+ "a3_25games_2900s_memfrac092": {
+  "games": 25,
+  "mean": 27.397,
+  "levels": 75,
+  "levels_total": 183,
+  "actions": 3245,
+  "errors": 210,
+  "nonzero": 24,
+  "source": "calib_a3\\output\\phase_b_safe_1791769819918702902\\baseline_p0\\metrics.json"
+ },
+ "a5_25games_2900s_timeout240": {
+  "games": 25,
+  "mean": 24.1988,
+  "levels": 69,
+  "levels_total": 183,
+  "actions": 3094,
+  "errors": 53,
+  "nonzero": 23,
+  "source": "calib_a5\\output\\phase_b_safe_1791807741414334601\\baseline_p0\\metrics.json"
+ },
+ "requests_a4_timeout120": {
+  "requests": 1500,
+  "median_s": 34.0,
+  "p90_s": 120.1,
+  "max_s": 120.2,
+  "hit_client_timeout": 225,
+  "hit_client_timeout_pct": 15.0,
+  "over_120s": 225,
+  "over_120s_pct": 15.0,
+  "timeout_request_hours": 7.51,
+  "total_request_hours": 19.98,
+  "wallclock_hours_if_10_ways": 2.0,
+  "source": "calib_a4\\output\\phase_b_safe_1791796870944110556\\baseline_p0\\request-events.jsonl"
+ },
+ "outputlen_a4_timeout120": {
+  "requests": 1496,
+  "median_tokens": 1255.0,
+  "p90_tokens": 4265,
+  "max_tokens": 9423,
+  "over_3000_pct": 21.93,
+  "source": "calib_a4\\output\\serve.log"
+ },
+ "requests_a5_timeout240": {
+  "requests": 1453,
+  "median_s": 28.3,
+  "p90_s": 114.5,
+  "max_s": 240.1,
+  "hit_client_timeout": 38,
+  "hit_client_timeout_pct": 2.62,
+  "over_120s": 135,
+  "over_120s_pct": 9.29,
+  "timeout_request_hours": 2.53,
+  "total_request_hours": 19.16,
+  "wallclock_hours_if_10_ways": 1.92,
+  "source": "calib_a5\\output\\phase_b_safe_1791807741414334601\\baseline_p0\\request-events.jsonl"
+ },
+ "outputlen_a5_timeout240": {
+  "requests": 1454,
+  "median_tokens": 1303.0,
+  "p90_tokens": 5099,
+  "max_tokens": 12290,
+  "over_3000_pct": 21.8,
+  "source": "calib_a5\\output\\serve.log"
+ },
+ "submissions": [
+  {
+   "ref": 56882441,
+   "date": "2026-10-06",
+   "score": 29.28,
+   "build": "M2 baseline first push"
+  },
+  {
+   "ref": 57037255,
+   "date": "2026-10-10",
+   "score": 24.38,
+   "build": "identical code rerun"
+  },
+  {
+   "ref": 57061252,
+   "date": "2026-10-11",
+   "score": 29.41,
+   "build": "identical code rerun"
+  },
+  {
+   "ref": 57100038,
+   "date": "2026-10-12",
+   "score": 29.6,
+   "build": "identical code rerun"
+  },
+  {
+   "ref": 57147727,
+   "date": "2026-10-13",
+   "score": 29.89,
+   "build": "guard build (3 env keys changed)"
+  }
+ ]
+}

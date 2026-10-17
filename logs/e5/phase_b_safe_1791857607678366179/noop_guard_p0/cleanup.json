@@ -1,0 +1,11 @@
+{
+  "worker_pid": 3816,
+  "worker_reaped": true,
+  "worker_exit_code": 0,
+  "gc_collected": 264,
+  "cleanup_errors": [
+    "BLOCKED_CACHE_ISOLATION: health/flush probe failed"
+  ],
+  "object_release_evidence": "Worker process exited and was reaped; no worker Python heap survives",
+  "server_cache_release_evidence": "See after-cache/cache-isolation.json; HTTP success only"
+}

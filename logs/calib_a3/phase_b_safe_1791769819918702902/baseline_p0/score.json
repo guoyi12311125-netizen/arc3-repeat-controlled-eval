@@ -1,0 +1,355 @@
+{
+  "games": {
+    "ar25-0c556536": {
+      "score": 41.66666666666667,
+      "seed_count": 1,
+      "seed_scores": {
+        "baseline_p0": 41.66666666666667
+      },
+      "trial_count": 1,
+      "trial_scores": {
+        "baseline_p0": 41.66666666666667
+      }
+    },
+    "bp35-0a0ad940": {
+      "score": 0.8,
+      "seed_count": 1,
+      "seed_scores": {
+        "baseline_p0": 0.8
+      },
+      "trial_count": 1,
+      "trial_scores": {
+        "baseline_p0": 0.8
+      }
+    },
+    "cd82-fb555c5d": {
+      "score": 47.61904761904761,
+      "seed_count": 1,
+      "seed_scores": {
+        "baseline_p0": 47.61904761904761
+      },
+      "trial_count": 1,
+      "trial_scores": {
+        "baseline_p0": 47.61904761904761
+      }
+    },
+    "cn04-2fe56bfb": {
+      "score": 4.761904761904762,
+      "seed_count": 1,
+      "seed_scores": {
+        "baseline_p0": 4.761904761904762
+      },
+      "trial_count": 1,
+      "trial_scores": {
+        "baseline_p0": 4.761904761904762
+      }
+    },
+    "dc22-fdcac232": {
+      "score": 4.604497354497354,
+      "seed_count": 1,
+      "seed_scores": {
+        "baseline_p0": 4.604497354497354
+      },
+      "trial_count": 1,
+      "trial_scores": {
+        "baseline_p0": 4.604497354497354
+      }
+    },
+    "ft09-0d8bbf25": {
+      "score": 47.61904761904761,
+      "seed_count": 1,
+      "seed_scores": {
+        "baseline_p0": 47.61904761904761
+      },
+      "trial_count": 1,
+      "trial_scores": {
+        "baseline_p0": 47.61904761904761
+      }
+    },
+    "g50t-5849a774": {
+      "score": 3.571428571428571,
+      "seed_count": 1,
+      "seed_scores": {
+        "baseline_p0": 3.571428571428571
+      },
+      "trial_count": 1,
+      "trial_scores": {
+        "baseline_p0": 3.571428571428571
+      }
+    },
+    "ka59-38d34dbb": {
+      "score": 3.571428571428571,
+      "seed_count": 1,
+      "seed_scores": {
+        "baseline_p0": 3.571428571428571
+      },
+      "trial_count": 1,
+      "trial_scores": {
+        "baseline_p0": 3.571428571428571
+      }
+    },
+    "lf52-271a04aa": {
+      "score": 5.454545454545454,
+      "seed_count": 1,
+      "seed_scores": {
+        "baseline_p0": 5.454545454545454
+      },
+      "trial_count": 1,
+      "trial_scores": {
+        "baseline_p0": 5.454545454545454
+      }
+    },
+    "lp85-305b61c3": {
+      "score": 41.66666666666667,
+      "seed_count": 1,
+      "seed_scores": {
+        "baseline_p0": 41.66666666666667
+      },
+      "trial_count": 1,
+      "trial_scores": {
+        "baseline_p0": 41.66666666666667
+      }
+    },
+    "ls20-9607627b": {
+      "score": 1.5873015873015872,
+      "seed_count": 1,
+      "seed_scores": {
+        "baseline_p0": 1.5873015873015872
+      },
+      "trial_count": 1,
+      "trial_scores": {
+        "baseline_p0": 1.5873015873015872
+      }
+    },
+    "m0r0-492f87ba": {
+      "score": 12.977765775497343,
+      "seed_count": 1,
+      "seed_scores": {
+        "baseline_p0": 12.977765775497343
+      },
+      "trial_count": 1,
+      "trial_scores": {
+        "baseline_p0": 12.977765775497343
+      }
+    },
+    "r11l-495a7899": {
+      "score": 4.761904761904762,
+      "seed_count": 1,
+      "seed_scores": {
+        "baseline_p0": 4.761904761904762
+      },
+      "trial_count": 1,
+      "trial_scores": {
+        "baseline_p0": 4.761904761904762
+      }
+    },
+    "re86-8af5384d": {
+      "score": 41.66666666666667,
+      "seed_count": 1,
+      "seed_scores": {
+        "baseline_p0": 41.66666666666667
+      },
+      "trial_count": 1,
+      "trial_scores": {
+        "baseline_p0": 41.66666666666667
+      }
+    },
+    "s5i5-18d95033": {
+      "score": 2.7777777777777777,
+      "seed_count": 1,
+      "seed_scores": {
+        "baseline_p0": 2.7777777777777777
+      },
+      "trial_count": 1,
+      "trial_scores": {
+        "baseline_p0": 2.7777777777777777
+      }
+    },
+    "sb26-7fbdac44": {
+      "score": 77.77777777777779,
+      "seed_count": 1,
+      "seed_scores": {
+        "baseline_p0": 77.77777777777779
+      },
+      "trial_count": 1,
+      "trial_scores": {
+        "baseline_p0": 77.77777777777779
+      }
+    },
+    "sc25-635fd71a": {
+      "score": 23.86887836761495,
+      "seed_count": 1,
+      "seed_scores": {
+        "baseline_p0": 23.86887836761495
+      },
+      "trial_count": 1,
+      "trial_scores": {
+        "baseline_p0": 23.86887836761495
+      }
+    },
+    "sk48-d8078629": {
+      "score": 0.0,
+      "seed_count": 1,
+      "seed_scores": {
+        "baseline_p0": 0.0
+      },
+      "trial_count": 1,
+      "trial_scores": {
+        "baseline_p0": 0.0
+      }
+    },
+    "sp80-589a99af": {
+      "score": 28.57142857142857,
+      "seed_count": 1,
+      "seed_scores": {
+        "baseline_p0": 28.57142857142857
+      },
+      "trial_count": 1,
+      "trial_scores": {
+        "baseline_p0": 28.57142857142857
+      }
+    },
+    "su15-1944f8ab": {
+      "score": 13.333333333333334,
+      "seed_count": 1,
+      "seed_scores": {
+        "baseline_p0": 13.333333333333334
+      },
+      "trial_count": 1,
+      "trial_scores": {
+        "baseline_p0": 13.333333333333334
+      }
+    },
+    "tn36-ef4dde99": {
+      "score": 3.571428571428571,
+      "seed_count": 1,
+      "seed_scores": {
+        "baseline_p0": 3.571428571428571
+      },
+      "trial_count": 1,
+      "trial_scores": {
+        "baseline_p0": 3.571428571428571
+      }
+    },
+    "tr87-cd924810": {
+      "score": 100.0,
+      "seed_count": 1,
+      "seed_scores": {
+        "baseline_p0": 100.0
+      },
+      "trial_count": 1,
+      "trial_scores": {
+        "baseline_p0": 100.0
+      }
+    },
+    "tu93-0768757b": {
+      "score": 62.22222222222222,
+      "seed_count": 1,
+      "seed_scores": {
+        "baseline_p0": 62.22222222222222
+      },
+      "trial_count": 1,
+      "trial_scores": {
+        "baseline_p0": 62.22222222222222
+      }
+    },
+    "vc33-5430563c": {
+      "score": 100.0,
+      "seed_count": 1,
+      "seed_scores": {
+        "baseline_p0": 100.0
+      },
+      "trial_count": 1,
+      "trial_scores": {
+        "baseline_p0": 100.0
+      }
+    },
+    "wa30-ee6fef47": {
+      "score": 10.474121020069415,
+      "seed_count": 1,
+      "seed_scores": {
+        "baseline_p0": 10.474121020069415
+      },
+      "trial_count": 1,
+      "trial_scores": {
+        "baseline_p0": 10.474121020069415
+      }
+    }
+  },
+  "metadata": {
+    "created_at": "2026-10-12T04:46:46.135800Z",
+    "dataset": "arc-prize-2026-arc-agi-3 public development environments",
+    "dataset_description": "",
+    "exclude_tags": [],
+    "experiment_dirs": [
+      "/kaggle/working/phase_b_safe_1791769819918702902/baseline_p0"
+    ],
+    "game_count": 25,
+    "game_ids": [
+      "ar25-0c556536",
+      "bp35-0a0ad940",
+      "cd82-fb555c5d",
+      "cn04-2fe56bfb",
+      "dc22-fdcac232",
+      "ft09-0d8bbf25",
+      "g50t-5849a774",
+      "ka59-38d34dbb",
+      "lf52-271a04aa",
+      "lp85-305b61c3",
+      "ls20-9607627b",
+      "m0r0-492f87ba",
+      "r11l-495a7899",
+      "re86-8af5384d",
+      "s5i5-18d95033",
+      "sb26-7fbdac44",
+      "sc25-635fd71a",
+      "sk48-d8078629",
+      "sp80-589a99af",
+      "su15-1944f8ab",
+      "tn36-ef4dde99",
+      "tr87-cd924810",
+      "tu93-0768757b",
+      "vc33-5430563c",
+      "wa30-ee6fef47"
+    ],
+    "git_commit": null,
+    "hardware": {
+      "gpu_count": 1,
+      "gpu_type": "NVIDIA RTX PRO 6000 Blackwell Server Edition"
+    },
+    "include_tags": [],
+    "model": "dfranzen/intel-qwen3.8-flash-next-w4a16-autoround/Transformers/default/1 | dfranzen/albucino-qwen3-8-flash-next-drafter/Transformers/default/1",
+    "re_arc_commit": "57e46d619d02e8129c215af72c81b187b6b51afe",
+    "run_dirs": [
+      "/kaggle/working/phase_b_safe_1791769819918702902/baseline_p0"
+    ],
+    "run_names": [
+      "baseline_p0"
+    ],
+    "runtime_budget": {
+      "concurrent_jobs": 10,
+      "max_experiment_runtime_hours": 9.0,
+      "max_experiment_runtime_minutes": 540.0,
+      "max_runtime_minutes_per_game": 48.333333333333336
+    },
+    "score_source": "taaf.final_score",
+    "scoring_version": "taaf-framework-score-v1",
+    "seed_labels": [
+      "baseline_p0"
+    ],
+    "seeds": [],
+    "seeds_available": false,
+    "setup_id": "dfranzen/intel-qwen3.8-flash-next-w4a16-autoround/Transformers/default/1 | dfranzen/albucino-qwen3-8-flash-next-drafter/Transformers/default/1",
+    "trial_count": 25,
+    "trial_labels": [
+      "baseline_p0"
+    ],
+    "trials": [],
+    "trials_available": true,
+    "seed": null,
+    "environment_seed_status": "UNKNOWN",
+    "environment_seed_evidence": "GameAPI omits seed in Arcade.make(); installed SDK default not verified"
+  },
+  "score": 27.397033588730253,
+  "version": 1
+}
