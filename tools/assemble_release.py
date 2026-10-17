@@ -216,6 +216,21 @@ def main():
         "* text=auto\n*.sh text eol=lf\nMANIFEST.sha256 text eol=lf\n*.py text eol=lf\n*.md text eol=lf\n*.ipynb text eol=lf\n",
         encoding="utf-8", newline="\n")
     (REL / ".gitignore").write_text("__pycache__/\n*.pyc\n.DS_Store\n", encoding="utf-8", newline="\n")
+    dataset_meta = {
+        "title": "ARC-AGI-3 repeat-controlled evaluation: artifacts and code",
+        "id": "zgyyyl/arc3-paper-release",
+        "licenses": [{"name": "MIT"}],
+        "subtitle": "Paper artifacts for the ARC Prize 2026 paper track (linked submission 57174905, 30.21)",
+        "description": (
+            "Code, run logs, analysis scripts, per-game tables and the manuscript for the paper "
+            "'Before Tuning the Harness: Repeat-Controlled Evaluation and Request-Level Accounting for ARC-AGI-3'. "
+            "Our code is MIT-0; third-party components keep their own terms, itemised in THIRD_PARTY_NOTICES.md. "
+            "The linked competition submission is 57174905 (public score 30.21). "
+            "Mirror of https://github.com/guoyi12311125-netizen/arc3-repeat-controlled-eval."
+        ),
+    }
+    import json as _json
+    (REL / "dataset-metadata.json").write_text(_json.dumps(dataset_meta, indent=2, ensure_ascii=False), encoding="utf-8")
     (REL / "LICENSE").write_text(LICENSE, encoding="utf-8")
     (REL / "THIRD_PARTY_NOTICES.md").write_text(THIRD_PARTY, encoding="utf-8")
     shutil.copy2(OLD / "VERIFICATION.md", REL / "VERIFICATION.md")
