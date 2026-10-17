@@ -217,7 +217,7 @@ def main():
         encoding="utf-8", newline="\n")
     (REL / ".gitignore").write_text("__pycache__/\n*.pyc\n.DS_Store\n", encoding="utf-8", newline="\n")
     dataset_meta = {
-        "title": "ARC-AGI-3 repeat-controlled evaluation: artifacts and code",
+        "title": "ARC-AGI-3 repeat-controlled evaluation artifacts",
         "id": "zgyyyl/arc3-paper-release",
         "licenses": [{"name": "MIT"}],
         "subtitle": "Paper artifacts for the ARC Prize 2026 paper track (linked submission 57174905, 30.21)",
