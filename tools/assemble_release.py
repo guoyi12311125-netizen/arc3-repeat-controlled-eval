@@ -220,7 +220,7 @@ def main():
         "title": "ARC-AGI-3 repeat-controlled evaluation artifacts",
         "id": "zgyyyl/arc3-paper-release",
         "licenses": [{"name": "MIT"}],
-        "subtitle": "Paper artifacts for the ARC Prize 2026 paper track (linked submission 57174905, 30.21)",
+        "subtitle": "Paper artifacts for the ARC Prize 2026 paper track (submission 57174905)",
         "description": (
             "Code, run logs, analysis scripts, per-game tables and the manuscript for the paper "
             "'Before Tuning the Harness: Repeat-Controlled Evaluation and Request-Level Accounting for ARC-AGI-3'. "
